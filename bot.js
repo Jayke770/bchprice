@@ -1,3 +1,4 @@
+import 'dotenv/config'
 import { Telegraf } from 'telegraf'
 import schedule from 'node-schedule'
 import CoinGecko from 'coingecko-api'
